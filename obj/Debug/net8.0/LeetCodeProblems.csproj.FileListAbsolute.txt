@@ -26,3 +26,4 @@ C:\Study\LeetCodeProblems\bin\Debug\net8.0\LeetCodeProblems.dll
 C:\Study\LeetCodeProblems\bin\Debug\net8.0\LeetCodeProblems.pdb
 C:\Study\LeetCodeProblems\obj\Debug\net8.0\LeetCodeProblems.genruntimeconfig.cache
 C:\Study\LeetCodeProblems\obj\Debug\net8.0\ref\LeetCodeProblems.dll
+C:\Study\LeetCodeProblems\obj\Debug\net8.0\LeetCodeProblems.sourcelink.json

@@ -1,16 +1,14 @@
-﻿using System.Formats.Asn1;
-
-public class TwoSumSolution
+﻿public class TwoSumSolution
 {
-    static void Main(string[] args)
-    {
-        int[] array = [3,2,4];
-        int target = 6;
-        var output = TwoSumForeach(array, target);
-        Console.WriteLine(output[0] + " " + output[1]);
-        output = TwoSumDictionary(array, target);
-        Console.WriteLine(output[0] + " " + output[1]);
-    }
+    //static void Main(string[] args)
+    //{
+    //    int[] array = [3,2,4];
+    //    int target = 6;
+    //    var output = TwoSumForeach(array, target);
+    //    Console.WriteLine(output[0] + " " + output[1]);
+    //    output = TwoSumDictionary(array, target);
+    //    Console.WriteLine(output[0] + " " + output[1]);
+    //}
 
     /// <summary>
     /// 这是我直接能想到的第一种解法，通过遍历两遍数组
